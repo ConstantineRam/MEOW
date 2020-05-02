@@ -1,0 +1,2 @@
+Fixed Popup disslocation bug. 
+The root was in custom -75 pixels reserved for depricated decoration feature.
